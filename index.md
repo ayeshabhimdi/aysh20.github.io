@@ -3,34 +3,19 @@
 Hello! I am Ayesha Bhimdiwala. I am a masters student at Indiana University Bloomington, focussing on Data Science. Before joining the MS program, I was working at Nielsen as a Data Science Executive and prior to that I was working as Data for Social Change Intern at Teach for India. I completed my undergraduate studies in Information Technology Engineering from the University of Mumbai with a focus on Data Analytics and Neural Networks.
 
 
+
 ### Resume
 
 Find my latest [RESUME](#) here!
+I am looking for opportunities to enhance my existing skills and work in different sectors, especially that help people and make their lives easier. If you share a similar breadth of view, please feel free to contact me.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Contact
+Email id: aybhimdi@iu.edu
+Connect or Follow me on:
+[LinkedIN](https://www.linkedin.com/in/ayeshabh/)
+[GitHub](https://github.com/AYSH20)
+[Twitter](https://twitter.com/aysh2094)
+[Google Scholar](https://scholar.google.com/citations?user=E8AWZFAAAAAJ&hl=en)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AYSH20/aysh20.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
