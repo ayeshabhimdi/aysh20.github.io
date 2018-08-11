@@ -12,7 +12,7 @@ I am looking for opportunities to enhance my existing skills and work in differe
 
 
 ### Contact
-Email id: aybhimdi@iu.edu
+Email id: aybhimdi@iu.edu <br>
 Connect or Follow me on:
 [LinkedIn](https://www.linkedin.com/in/ayeshabh/)
 [Twitter](https://twitter.com/aysh2094)
