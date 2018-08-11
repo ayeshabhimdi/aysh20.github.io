@@ -6,7 +6,7 @@ Hello! I am Ayesha Bhimdiwala. I am a masters student at Indiana University Bloo
 
 ### Resume
 
-Find my latest [RESUME](#) here! <br/>
+Find my latest [RESUME](https://drive.google.com/file/d/1LuAlAa1x6slLGRaGRtFqA2x70aTzYanJ/view?usp=sharing) here! <br/>
 I am looking for opportunities to enhance my existing skills and work in different sectors, especially that help people and make their lives easier. If you share a similar breadth of view, please feel free to contact me.
 
 
