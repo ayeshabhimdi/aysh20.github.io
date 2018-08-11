@@ -1,8 +1,7 @@
-## [Blog](#) [Projects](#)
+## [Coursework](#) [Resume](#) | [Projects](#)
 
-You can use the [editor on GitHub](https://github.com/AYSH20/aysh20.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am Ayesha Bhimdiwala. I am a masters student at Indiana University Bloomington, focussing on Data Science. Before joining the MS program, I was working at Nielsen as a Data Science Executive and prior to that I was working as Data for Social Change Intern at Teach for India. I completed my undergraduate studies in Information Technology Engineering from the University of Mumbai with a focus on Data Analytics and Neural Networks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
