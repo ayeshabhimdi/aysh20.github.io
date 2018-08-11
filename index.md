@@ -1,4 +1,4 @@
-## [Home](#) | | | [Just For Fun](#)
+# [Home](#) | | | [Just For Fun](#)
 
 Hello! I am Ayesha Bhimdiwala. I am a masters student at Indiana University Bloomington, focussing on Data Science. Before joining the MS program, I was working at Nielsen as a Data Science Executive and prior to that I was working as Data for Social Change Intern at Teach for India. I completed my undergraduate studies in Information Technology Engineering from the University of Mumbai with a focus on Data Analytics and Neural Networks.
 
