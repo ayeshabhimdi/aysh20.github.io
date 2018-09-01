@@ -14,3 +14,4 @@ Connect or Follow me on:
 [LinkedIn](https://www.linkedin.com/in/ayeshabh/)
 [Twitter](https://twitter.com/aysh2094)
 [Google Scholar](https://scholar.google.com/citations?user=E8AWZFAAAAAJ&hl=en)
+[GitHub](https://github.com/AYSH20)
