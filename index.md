@@ -2,7 +2,7 @@
 ### About Me
 Hello! I am Ayesha Bhimdiwala. I am a masters student at Indiana University Bloomington, focussing on Data Science. Before joining the MS program, I was working at Nielsen as a Data Science Executive and prior to that I was working as Data for Social Change Intern at Teach for India. I completed my undergraduate studies in Information Technology Engineering from the University of Mumbai with a focus on Data Analytics and Neural Networks.
 <br/>
-Find my latest [RESUME](https://drive.google.com/file/d/12TxKNyeR1vQsNadU2rp_6t70ssmXdwEO/view?usp=sharing) here or see my 
+Find my latest [RESUME](https://drive.google.com/file/d/13K-q2911psyVd3Vdy5yknbv3KdalsEg7/view?usp=sharing) here or see my 
 [CV](https://docs.google.com/document/d/12BdDarX4oppsTvR_21YZoWo8YhV1RAkTVwAG6rwccCA/edit?usp=sharing) for most updated and detailed information. <br/>
 <br/>
 ### Hire Me
