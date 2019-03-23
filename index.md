@@ -5,18 +5,7 @@ Hello! I am a Master's student in Data Science at Indiana University Bloomington
 <br/>
 <br/>
 
-## PROJECTS
-### Machine Learning:
-#### Reboot: Box-Plots for Education:
 
-
-### Exploratory Data Analysis:
-#### Predicting average Medicare payments across United States
-<br/>
-<br/>
-<br/>
-### Data Visualization:
-#### Visualizing makerspaces on the web
 <br/>
 <br/>
 <br/>
