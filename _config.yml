@@ -5,3 +5,9 @@ name: Ayesha Bhimdiwala
 description: Graduate Data Science Student, Aspiring Data Scientist for Social Good
 avatar: https://aysh20.github.io/images/bestpic2018.jpg
 url: "https://aysh20.github.io"
+
+---
+---
+body {
+  font-family: '{{ site.fonts.primary }}',{{ site.fonts.secondary }},Arial,sans-serif;
+}
