@@ -5,9 +5,5 @@ name: Ayesha Bhimdiwala
 description: Graduate Student, Learning and Data Science
 avatar: https://aysh20.github.io/images/bestpic2018.jpg
 url: "https://aysh20.github.io"
+font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif
 
----
----
-body {
-  font-family: '{{ site.fonts.primary }}',{{ site.fonts.secondary }},Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif;
-}
