@@ -1,6 +1,6 @@
 <br/>
 ## ABOUT ME
-Hello! I am a Master's student in Data Science at Indiana University Bloomington. I am looking for full-time opportunities starting May 2019. I have experiences of working in educational technology (K-20) and market research data but open to other domains like healthcare and life sciences. I completed my undergraduate studies in Information Technology Engineering from the University of Mumbai with a focus on Data Analytics and Neural Networks. 
+Hello! I am in my first year as a PhD student in Learning Sciences with a minor in Data Science at Indiana University Bloomington. 
 <br/>
 <br/>
 <br/>
